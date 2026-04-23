@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: CBTi-seq_tools
+Version: 1.0.0
+Summary: CBTi-seq complete analysis pipeline
+Author: Wenyi Zhang
+Requires-Dist: pysam
+Requires-Dist: biopython
+Requires-Dist: pandas
+Requires-Dist: pyyaml
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
