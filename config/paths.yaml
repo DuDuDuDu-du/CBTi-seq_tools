@@ -1,0 +1,6 @@
+picard: <The path of picard>
+dropseq: <The path of dropseq_tools>
+star: <The path of STAR>
+genome_dir: <The path of STAR index dir>
+reference_fasta: <The path of genome.fasta>
+refflat: <The path of genome.refFlat>
